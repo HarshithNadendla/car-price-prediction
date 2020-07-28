@@ -43,4 +43,4 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 jsonify==0.5
 MarkupSafe==1.1.1
-gunicorn app
+gunicorn 
